@@ -9,7 +9,7 @@ Progressive Web Apps
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://wordpress.org/plugins/progressive-web-apps/)
 
 
- &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; ![demo](https://i.imgur.com/jfbnuN2.gif) &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; ![demo](https://i.imgur.com/UQY7TDs.gif) &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; ![demo](https://i.imgur.com/AtI7537.gif) &nbsp; &nbsp;  &nbsp; &nbsp;
+ &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; ![demo](https://d3oqwjghculspf.cloudfront.net/github/wordpress-progressive-web-apps/jfbnuN2.gif) &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; ![demo](http://d3oqwjghculspf.cloudfront.net/github/wordpress-progressive-web-apps/UQY7TDs.gif) &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; ![demo](http://d3oqwjghculspf.cloudfront.net/github/wordpress-progressive-web-apps/AtI7537.gif) &nbsp; &nbsp;  &nbsp; &nbsp;
 
 [Progressive Web Apps](https://pwathemes.com/) use modern web capabilities to deliver app-like user experiences. They're reliable, fast and engaging.
 
